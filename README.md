@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![CO-5](https://github.com/user-attachments/assets/3b37a043-982a-445d-9611-142ba1a9178b)
 
 ## 🥁 CarnaCode 2026 - Desafio 17 - Mediator
 
